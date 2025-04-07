@@ -1,0 +1,11 @@
+[project]
+name = "mcp-log"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "aioboto3>=13.2.0",
+    "mcp>=1.0.0",
+    "python-dotenv>=1.0.1",
+]
