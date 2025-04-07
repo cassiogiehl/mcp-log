@@ -16,6 +16,7 @@ AWS_ACCESS_KEY_ID=seu_access_key
 AWS_SECRET_ACCESS_KEY=seu_secret_key
 AWS_REGION=sua_regiao
 S3_BUCKET_NAME=nome_do_bucket
+AWS_ENDPOINT_URL="http://localhost:9000"
 ```
 
 3. Execute o servidor:
